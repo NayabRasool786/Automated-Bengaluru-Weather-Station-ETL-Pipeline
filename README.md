@@ -2,7 +2,7 @@
 
 A Python-based **ETL (Extract, Transform, Load)** pipeline that tracks real-time weather data for a specific location. It automatically fetches data from the Open-Meteo API, processes it using Pandas, and persists it into both a SQLite database and a CSV dataset for historical analysis.
 
-![Alt text](data/Automated Weather Station ETL Pipeline.png)
+![Automated Weather Station ETL Pipeline](data/Automated%20Weather%20Station%20ETL%20Pipeline.png)
 
 ## 📂 Project Structure
 
